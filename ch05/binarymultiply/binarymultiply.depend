@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1539270392 source:d:\code\algorithm\ch05\binarymultiply\main.cpp
+	<iostream>
+	<string>
+	<cmath>
+
